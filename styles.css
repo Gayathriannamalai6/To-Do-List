@@ -30,12 +30,11 @@ form button {
     font-size: 2rem;
     border:none;
     background: white;
-    border-radius: 2rem;
 
 }
 form button {
     color: #2719a7;
-    background: white;
+    background:#d8fafa;
     cursor: square;
     transition: all 0.8 ease;
     margin-left: 0.5rem;
